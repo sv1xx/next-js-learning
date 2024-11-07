@@ -2,7 +2,7 @@ import Sidebar from "@/components/sidebar/Sidebar";
 
 export default function HomePage() {
   return (
-    <div className="">
+    <div className="grid gridRoot">
       <Sidebar />
     </div>
   );

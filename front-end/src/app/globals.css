@@ -4,4 +4,9 @@
 
 :root {
   background-color: #262728;
+  color: white;
+}
+
+.gridRoot {
+  grid-template-columns: 1fr 20fr;
 }
